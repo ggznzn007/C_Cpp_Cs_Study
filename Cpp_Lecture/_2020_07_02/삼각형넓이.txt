@@ -1,0 +1,23 @@
+#include<iostream>
+using namespace std;
+
+class sq {
+	int h, g;
+public:
+
+	sq(int a, int b) {
+		h = a, g = b;
+	}
+	double area() {
+		return h * g / 2;
+	}
+};
+
+int main() {
+	int x, z;
+	cout << "삼각형의 높이와 가로 입력>>";
+	cin >> x >> z;
+	sq 삼각형(x, z);
+
+	cout << "삼각형의 넓이는 " << 삼각형.area() << "입니다." << endl;
+}

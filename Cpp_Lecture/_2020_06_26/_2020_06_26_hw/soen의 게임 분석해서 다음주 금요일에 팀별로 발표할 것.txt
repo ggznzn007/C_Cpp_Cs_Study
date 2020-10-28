@@ -1,0 +1,7 @@
+Fighter
+Tetris
+Snake
+Frog
+Hexa
+Couple
+Quiz

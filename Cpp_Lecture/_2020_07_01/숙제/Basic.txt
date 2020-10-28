@@ -1,0 +1,76 @@
+1. main()의 실행 결과가 다음과 같도록 Tower클래스를 작성하세요
+
+높이는 1미터
+높이는 100미터
+
+#include <iostream>
+
+using namespace std;
+
+void main()
+{
+	Tower myTower;
+	Tower seoulTower(100);
+	cout << "높이는 " << myTower.getHeight() << "미터" << endl;
+	cout << "높이는 " << seoulTower.getHeight() << "미터" << endl;
+}
+
+2. 날짜를 다루는 Date 클래스를 작성하고자 합니다.
+   Date를 이용하는 main()과 실행결과는 다음과 같습니다.
+   클래스 Date를 작성하여 아래 프로그램에 추가하세요.
+
+   1945년 8월 15일
+   2014,3,20
+
+//#include <iostream>
+//
+//using namespace std;
+//
+//void main()
+//{
+//	Date birth(2014, 3, 20);
+//	Date independenceDay("1945/8/15");
+//	independenceDay.show();
+//	cout << birth.getYear() << ',' << birth.getMonth() << ',' << birth.getDay() << endl;
+//}
+
+
+3. Box.h, Box.cpp, main.cpp로 나누세요
+
+#include <iostream>
+using namespace std;
+
+class Box {
+	int width, height;
+	char fill;
+public:
+	Box(int w, int h)
+	{ 
+		setSize(w, h); fill = '*'; 
+	}
+	void setFill(char f)
+	{
+		fill = f;
+	}
+	void setSize(int w, int h)
+	{ 
+		width = w; height = h;
+	}
+	void draw()
+	{
+		for(int n=0; n<height; n++) {
+			for(int m=0; m<width; m++)	cout << fill;
+			cout << endl;
+		}
+	}
+};
+
+int main() {
+	Box b(10, 2);
+	b.draw();
+	cout << endl;
+	b.setSize(7, 4);
+	b.setFill('^');
+	b.draw();
+}
+

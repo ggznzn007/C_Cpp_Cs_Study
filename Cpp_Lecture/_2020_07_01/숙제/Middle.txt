@@ -1,0 +1,20 @@
+1. Fruit 프로젝트를
+  seller.saleApple(buyer, 2000); 
+  처럼 호출할 수 있도록 수정하세요
+
+2. TelInfo에 복사생성자를 추가하세요
+
+
+3. TelInfo파일을 분할하세요
+
+4. Add, Sub, Mul, Div 클래스를 만듭니다.
+이 클래스들은 공통적으로 4개의 멤버를 가지고 있습니다
+int a, b;
+void setValue(int x, int y);	// x를 a에, y를 b에 저장
+int calculate()					// 연산을 실행하고 결과 리턴
+프로그램은 무한루프를 돕니다
+
+3 4 *
+=> 12
+5 2 /
+=> 2

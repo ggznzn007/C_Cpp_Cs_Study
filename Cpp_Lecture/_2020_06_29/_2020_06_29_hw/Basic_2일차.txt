@@ -1,0 +1,40 @@
+1. Random 클래스를 만들것
+
+#include <iostream>
+#include <cstdlib>
+#include <ctime> 
+
+using namespace std;
+
+
+int main() {
+	Random r;
+	cout << "-- 0에서 " << RAND_MAX << "까지의 랜덤 정수 10 개--" << endl;
+	for(int i=0; i<10; i++) {
+		int n = r.next(); // 0에서 RAND_MAX(32767) 사이의 랜덤한 정수
+		cout << n << ' ';
+	}
+	cout << endl << endl << "-- 2에서 " << "4 까지의 랜덤 정수 10 개 --" << endl;
+	for(int i=0; i<10; i++) {
+		int n = r.nextInRange(2, 4); // 2에서 4 사이의 랜덤한 정수
+		cout << n << ' ';
+	}
+	cout << endl;
+}
+
+
+
+2. Oval 클래스 만들기
+
+#include <iostream>
+using namespace std;
+
+// main() 함수
+int main() {
+	Oval a, b(3, 4);
+	a.set(10, 20);
+	a.show();
+	cout << b.getWidth() << ", " << b.getHeight() << endl;
+}
+
+
