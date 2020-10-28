@@ -1,0 +1,43 @@
+value = 100;// 변수에 값을 저장한다...
+
+            {
+
+                value = 200;
+
+            }
+
+            var value;// 명시적 선언
+            value = 10 + 20 + 30;// 변수에 값을 저장한다...
+            document.write(value+"<br/>");// 변수의 값을 출력
+            value = 0;// 총합 저장
+            value = value + 10;
+            value = value + 20;
+            value = value + 30;
+
+<!DOCTYPE html>
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <script>
+            // 예약어이다... 변수명으로 사용 금지
+            document.write(true); 논리형 값
+            document.write(false);
+
+            // 실행~하다. 함수 호출 - 함수명(필요한 자료);
+            // 변수의 값이 변했냐 ?
+            // 3개 정수를 입력받아서 모두 더한 총합을 출력
+            value = 0;
+            a = prompt('user input');// '10' -> 10 (변환 기능)
+            b = prompt('user input');
+            c = prompt('user input');
+            value = Number(a) + parseInt(b,10) + (c*1);
+            document.write(value);// 변수의 값을 출력
+
+        </script>
+    </body>
+   
+</html>
+
+

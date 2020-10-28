@@ -1,0 +1,4 @@
+FILE* fp;
+                fp = fopen("score.txt", "at");
+                fput("%d", score);
+                fprintf(fp, "점수: %d\n");
