@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="HW_01.cs" />
+    <Compile Remove="HW_02.cs" />
+    <Compile Remove="HW_03.cs" />
+    <Compile Remove="HW_04.cs" />
+    <Compile Remove="HW_05.cs" />
+    <Compile Remove="HW_06.cs" />
+    <Compile Remove="HW_07.cs" />
+    <Compile Remove="HW_08.cs" />
+    <Compile Remove="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="HW_01.cs" />
+    <None Include="HW_02.cs" />
+    <None Include="HW_03.cs" />
+    <None Include="HW_04.cs" />
+    <None Include="HW_05.cs" />
+    <None Include="HW_06.cs" />
+    <None Include="HW_07.cs" />
+    <None Include="HW_08.cs" />
+    <None Include="Program.cs" />
+  </ItemGroup>
+
+</Project>
