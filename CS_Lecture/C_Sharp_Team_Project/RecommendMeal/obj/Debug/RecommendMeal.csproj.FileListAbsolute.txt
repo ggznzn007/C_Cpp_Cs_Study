@@ -1,0 +1,227 @@
+C:\Users\Admin\source\repos\whiteibescu\CSharp\_2020_08_Assignment\RecommendMeal\RecommendMeal\RecommendMeal\bin\Debug\RecommendMeal.exe.config
+C:\Users\Admin\source\repos\whiteibescu\CSharp\_2020_08_Assignment\RecommendMeal\RecommendMeal\RecommendMeal\bin\Debug\RecommendMeal.exe
+C:\Users\Admin\source\repos\whiteibescu\CSharp\_2020_08_Assignment\RecommendMeal\RecommendMeal\RecommendMeal\bin\Debug\RecommendMeal.pdb
+C:\Users\Admin\source\repos\whiteibescu\CSharp\_2020_08_Assignment\RecommendMeal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\whiteibescu\CSharp\_2020_08_Assignment\RecommendMeal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.CookingForm.resources
+C:\Users\Admin\source\repos\whiteibescu\CSharp\_2020_08_Assignment\RecommendMeal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Form1.resources
+C:\Users\Admin\source\repos\whiteibescu\CSharp\_2020_08_Assignment\RecommendMeal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Properties.Resources.resources
+C:\Users\Admin\source\repos\whiteibescu\CSharp\_2020_08_Assignment\RecommendMeal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\whiteibescu\CSharp\_2020_08_Assignment\RecommendMeal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\whiteibescu\CSharp\_2020_08_Assignment\RecommendMeal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.exe
+C:\Users\Admin\source\repos\whiteibescu\CSharp\_2020_08_Assignment\RecommendMeal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.pdb
+C:\Users\Admin\source\c#\_1_Practice\0803_Practice\RecommendMeal\RecommendMeal\bin\Debug\RecommendMeal.exe.config
+C:\Users\Admin\source\c#\_1_Practice\0803_Practice\RecommendMeal\RecommendMeal\bin\Debug\RecommendMeal.exe
+C:\Users\Admin\source\c#\_1_Practice\0803_Practice\RecommendMeal\RecommendMeal\bin\Debug\RecommendMeal.pdb
+C:\Users\Admin\source\c#\_1_Practice\0803_Practice\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csprojAssemblyReference.cache
+C:\Users\Admin\source\c#\_1_Practice\0803_Practice\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.CookingForm.resources
+C:\Users\Admin\source\c#\_1_Practice\0803_Practice\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Form1.resources
+C:\Users\Admin\source\c#\_1_Practice\0803_Practice\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Properties.Resources.resources
+C:\Users\Admin\source\c#\_1_Practice\0803_Practice\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csproj.GenerateResource.cache
+C:\Users\Admin\source\c#\_1_Practice\0803_Practice\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\c#\_1_Practice\0803_Practice\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.exe
+C:\Users\Admin\source\c#\_1_Practice\0803_Practice\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.pdb
+C:\Users\Admin\source\c#\_1_Practice\0803_Practice\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.LoadingForm.resources
+C:\Users\white\source\repos\whiteibescu\CSharp\Final Meal\RecommendMeal\RecommendMeal\bin\Debug\RecommendMeal.exe.config
+C:\Users\white\source\repos\whiteibescu\CSharp\Final Meal\RecommendMeal\RecommendMeal\bin\Debug\RecommendMeal.exe
+C:\Users\white\source\repos\whiteibescu\CSharp\Final Meal\RecommendMeal\RecommendMeal\bin\Debug\RecommendMeal.pdb
+C:\Users\white\source\repos\whiteibescu\CSharp\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csprojAssemblyReference.cache
+C:\Users\white\source\repos\whiteibescu\CSharp\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.CookingForm.resources
+C:\Users\white\source\repos\whiteibescu\CSharp\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Form1.resources
+C:\Users\white\source\repos\whiteibescu\CSharp\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.LoadingForm.resources
+C:\Users\white\source\repos\whiteibescu\CSharp\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Properties.Resources.resources
+C:\Users\white\source\repos\whiteibescu\CSharp\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csproj.GenerateResource.cache
+C:\Users\white\source\repos\whiteibescu\CSharp\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csproj.CoreCompileInputs.cache
+C:\Users\white\source\repos\whiteibescu\CSharp\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.exe
+C:\Users\white\source\repos\whiteibescu\CSharp\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.pdb
+C:\Users\white\source\repos\whiteibescu\CSharp\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.LoginForm.resources
+C:\Users\white\source\repos\whiteibescu\CSharp\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.StartingForm.resources
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\bin\Debug\RecommendMeal.exe.config
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\bin\Debug\RecommendMeal.exe
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\bin\Debug\RecommendMeal.pdb
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.CookingForm.resources
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Form1.resources
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.LoadingForm.resources
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.LoginForm.resources
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Properties.Resources.resources
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.StartingForm.resources
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.exe
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.pdb
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi.resources
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi_Friedrice.resources
+C:\Users\Admin\source\repos\Coding\c#\project\project\Final Meal\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi_Soup.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\bin\Debug\RecommendMeal.exe.config
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\bin\Debug\RecommendMeal.exe
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\bin\Debug\RecommendMeal.pdb
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\bin\Debug\Interop.WMPLib.dll
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csprojAssemblyReference.cache
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\Interop.WMPLib.dll
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csproj.ResolveComReference.cache
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.CookingForm.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice_Rice.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice_RolledOmelet.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Form1.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.LoadingForm.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.LoginForm.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Properties.Resources.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.StartingForm.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna_Boiled.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna_Pan.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi_Friedrice.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi_Soup.resources
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csproj.GenerateResource.cache
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.csproj.CoreCompileInputs.cache
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.exe
+C:\Users\white\Desktop\RecommendMeal\RecommendMeal\obj\Debug\RecommendMeal.pdb
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\bin\Debug\RecommendMeal.exe.config
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\bin\Debug\RecommendMeal.exe
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\bin\Debug\RecommendMeal.pdb
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\bin\Debug\Interop.WMPLib.dll
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.csprojAssemblyReference.cache
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\Interop.WMPLib.dll
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.csproj.ResolveComReference.cache
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.CookingForm.resources
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice.resources
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice_Rice.resources
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice_RolledOmelet.resources
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Form1.resources
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.LoadingForm.resources
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.LoginForm.resources
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Properties.Resources.resources
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.StartingForm.resources
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna.resources
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna_Boiled.resources
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna_Pan.resources
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi.resources
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi_Friedrice.resources
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi_Soup.resources
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.csproj.GenerateResource.cache
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.csproj.CoreCompileInputs.cache
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.exe
+C:\Users\white\Desktop\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.pdb
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\bin\Debug\RecommendMeal.exe.config
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\bin\Debug\RecommendMeal.exe
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\bin\Debug\RecommendMeal.pdb
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.csproj.ResolveComReference.cache
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.CookingForm.resources
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice.resources
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice_Rice.resources
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice_RolledOmelet.resources
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Form1.resources
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.LoadingForm.resources
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.LoginForm.resources
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Properties.Resources.resources
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.StartingForm.resources
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna.resources
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna_Boiled.resources
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna_Pan.resources
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi.resources
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi_Friedrice.resources
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi_Soup.resources
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.exe
+C:\Users\Admin\Downloads\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.pdb
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\bin\Debug\RecommendMeal.exe.config
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\bin\Debug\RecommendMeal.exe
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\bin\Debug\RecommendMeal.pdb
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\bin\Debug\Interop.WMPLib.dll
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.csprojAssemblyReference.cache
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\Interop.WMPLib.dll
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.csproj.ResolveComReference.cache
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.CookingForm.resources
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice.resources
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice_Rice.resources
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice_RolledOmelet.resources
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Form1.resources
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.LoadingForm.resources
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.LoginForm.resources
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Properties.Resources.resources
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.StartingForm.resources
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna.resources
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna_Boiled.resources
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna_Pan.resources
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi.resources
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi_Friedrice.resources
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi_Soup.resources
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.csproj.GenerateResource.cache
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.csproj.CoreCompileInputs.cache
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.exe
+C:\Users\white\Desktop\Final Meal\Final Meal(박성수)\Final Meal(박성수)\RecommendMeal\obj\Debug\RecommendMeal.pdb
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\bin\Debug\RecommendMeal.exe.config
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\bin\Debug\RecommendMeal.exe
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\bin\Debug\RecommendMeal.pdb
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\bin\Debug\Interop.WMPLib.dll
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.csprojAssemblyReference.cache
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\Interop.WMPLib.dll
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.csproj.ResolveComReference.cache
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.CookingForm.resources
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice.resources
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice_Rice.resources
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice_RolledOmelet.resources
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Form1.resources
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.LoadingForm.resources
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.LoginForm.resources
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Properties.Resources.resources
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.StartingForm.resources
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna.resources
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna_Boiled.resources
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna_Pan.resources
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi.resources
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi_Friedrice.resources
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi_Soup.resources
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.csproj.GenerateResource.cache
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.csproj.CoreCompileInputs.cache
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.exe
+C:\Users\white\Desktop\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.pdb
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\bin\Debug\RecommendMeal.exe.config
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\bin\Debug\RecommendMeal.exe
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\bin\Debug\RecommendMeal.pdb
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\bin\Debug\Interop.WMPLib.dll
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\bin\Debug\AxInterop.WMPLib.dll
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.csprojAssemblyReference.cache
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\Interop.WMPLib.dll
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\AxInterop.WMPLib.dll
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.csproj.ResolveComReference.cache
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.CookingForm.resources
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice.resources
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice_Rice.resources
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Egg_Rice_RolledOmelet.resources
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Form1.resources
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.LoadingForm.resources
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.LoginForm.resources
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Properties.Resources.resources
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.StartingForm.resources
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna.resources
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna_Boiled.resources
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Tofu_Tuna_Pan.resources
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi.resources
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi_Friedrice.resources
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.Tuna_Kimchi_Soup.resources
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.csproj.GenerateResource.cache
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.csproj.CoreCompileInputs.cache
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.exe
+D:\BitcampARVR\C#\C_Sharp_Team_Project\#오늘 뭐먹지\_2020_08_20_Assignment\RecommendMeal\obj\Debug\RecommendMeal.pdb
