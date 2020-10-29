@@ -1,3 +1,0 @@
-﻿  enum_test.cpp
-C:\Lecture\_5_CSharp\_2019_08_09\3_Enum_cpp\enum_test.cpp(9,13): warning C4326:  'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  3_Enum_cpp.vcxproj -> C:\Lecture\_5_CSharp\_2019_08_09\Debug\3_Enum_cpp.exe

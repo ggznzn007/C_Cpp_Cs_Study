@@ -1,9 +1,0 @@
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_09_Timer\bin\Debug\_09_Timer.exe.config
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_09_Timer\bin\Debug\_09_Timer.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_09_Timer\bin\Debug\_09_Timer.pdb
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_09_Timer\obj\Debug\_09_Timer.Properties.Resources.resources
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_09_Timer\obj\Debug\_09_Timer.csproj.GenerateResource.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_09_Timer\obj\Debug\_09_Timer.csproj.CoreCompileInputs.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_09_Timer\obj\Debug\_09_Timer.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_09_Timer\obj\Debug\_09_Timer.pdb
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_09_Timer\obj\Debug\_09_Timer.Form1.resources

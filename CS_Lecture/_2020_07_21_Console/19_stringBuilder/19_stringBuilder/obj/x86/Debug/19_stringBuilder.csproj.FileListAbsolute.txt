@@ -1,6 +1,0 @@
-D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\19_stringBuilder\19_stringBuilder\bin\Debug\19_stringBuilder.exe
-D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\19_stringBuilder\19_stringBuilder\bin\Debug\19_stringBuilder.pdb
-D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\19_stringBuilder\19_stringBuilder\obj\x86\Debug\19_stringBuilder.csprojAssemblyReference.cache
-D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\19_stringBuilder\19_stringBuilder\obj\x86\Debug\19_stringBuilder.csproj.CoreCompileInputs.cache
-D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\19_stringBuilder\19_stringBuilder\obj\x86\Debug\19_stringBuilder.exe
-D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\19_stringBuilder\19_stringBuilder\obj\x86\Debug\19_stringBuilder.pdb

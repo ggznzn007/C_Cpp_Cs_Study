@@ -1,9 +1,0 @@
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_05_DrawLine\bin\Debug\_05_DrawLine.exe.config
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_05_DrawLine\bin\Debug\_05_DrawLine.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_05_DrawLine\bin\Debug\_05_DrawLine.pdb
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_05_DrawLine\obj\Debug\_05_DrawLine.csprojAssemblyReference.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_05_DrawLine\obj\Debug\_05_DrawLine.Properties.Resources.resources
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_05_DrawLine\obj\Debug\_05_DrawLine.csproj.GenerateResource.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_05_DrawLine\obj\Debug\_05_DrawLine.csproj.CoreCompileInputs.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_05_DrawLine\obj\Debug\_05_DrawLine.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_05_DrawLine\obj\Debug\_05_DrawLine.pdb

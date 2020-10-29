@@ -1,9 +1,0 @@
-D:\BitcampARVR(정푸른)\C#\_2020_07_23_Forms\_21_CodeButtons\bin\Debug\_21_CodeButtons.exe.config
-D:\BitcampARVR(정푸른)\C#\_2020_07_23_Forms\_21_CodeButtons\bin\Debug\_21_CodeButtons.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_23_Forms\_21_CodeButtons\bin\Debug\_21_CodeButtons.pdb
-D:\BitcampARVR(정푸른)\C#\_2020_07_23_Forms\_21_CodeButtons\obj\Debug\_21_CodeButtons.Properties.Resources.resources
-D:\BitcampARVR(정푸른)\C#\_2020_07_23_Forms\_21_CodeButtons\obj\Debug\_21_CodeButtons.csproj.GenerateResource.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_23_Forms\_21_CodeButtons\obj\Debug\_21_CodeButtons.csproj.CoreCompileInputs.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_23_Forms\_21_CodeButtons\obj\Debug\_21_CodeButtons.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_23_Forms\_21_CodeButtons\obj\Debug\_21_CodeButtons.pdb
-D:\BitcampARVR(정푸른)\C#\_2020_07_23_Forms\_21_CodeButtons\obj\Debug\_21_CodeButtons.csprojAssemblyReference.cache

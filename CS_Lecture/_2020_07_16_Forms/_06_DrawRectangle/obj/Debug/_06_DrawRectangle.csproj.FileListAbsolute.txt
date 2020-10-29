@@ -1,8 +1,0 @@
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_06_DrawRectangle\bin\Debug\_06_DrawRectangle.exe.config
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_06_DrawRectangle\bin\Debug\_06_DrawRectangle.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_06_DrawRectangle\bin\Debug\_06_DrawRectangle.pdb
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_06_DrawRectangle\obj\Debug\_06_DrawRectangle.Properties.Resources.resources
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_06_DrawRectangle\obj\Debug\_06_DrawRectangle.csproj.GenerateResource.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_06_DrawRectangle\obj\Debug\_06_DrawRectangle.csproj.CoreCompileInputs.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_06_DrawRectangle\obj\Debug\_06_DrawRectangle.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_06_DrawRectangle\obj\Debug\_06_DrawRectangle.pdb

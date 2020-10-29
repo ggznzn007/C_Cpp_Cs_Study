@@ -1,8 +1,0 @@
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_10_MoveEllipseTimer\bin\Debug\_10_MoveEllipseTimer.exe.config
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_10_MoveEllipseTimer\bin\Debug\_10_MoveEllipseTimer.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_10_MoveEllipseTimer\bin\Debug\_10_MoveEllipseTimer.pdb
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_10_MoveEllipseTimer\obj\Debug\_10_MoveEllipseTimer.Properties.Resources.resources
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_10_MoveEllipseTimer\obj\Debug\_10_MoveEllipseTimer.csproj.GenerateResource.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_10_MoveEllipseTimer\obj\Debug\_10_MoveEllipseTimer.csproj.CoreCompileInputs.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_10_MoveEllipseTimer\obj\Debug\_10_MoveEllipseTimer.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_10_MoveEllipseTimer\obj\Debug\_10_MoveEllipseTimer.pdb

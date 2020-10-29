@@ -1,9 +1,0 @@
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_08_MoveEllipse\bin\Debug\_08_MoveEllipse.exe.config
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_08_MoveEllipse\bin\Debug\_08_MoveEllipse.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_08_MoveEllipse\bin\Debug\_08_MoveEllipse.pdb
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_08_MoveEllipse\obj\Debug\_08_MoveEllipse.csprojAssemblyReference.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_08_MoveEllipse\obj\Debug\_08_MoveEllipse.Properties.Resources.resources
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_08_MoveEllipse\obj\Debug\_08_MoveEllipse.csproj.GenerateResource.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_08_MoveEllipse\obj\Debug\_08_MoveEllipse.csproj.CoreCompileInputs.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_08_MoveEllipse\obj\Debug\_08_MoveEllipse.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_16_Forms\_08_MoveEllipse\obj\Debug\_08_MoveEllipse.pdb

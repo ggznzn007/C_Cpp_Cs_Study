@@ -1,5 +1,0 @@
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\39_Random\39_Random\bin\Debug\39_Random.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\39_Random\39_Random\bin\Debug\39_Random.pdb
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\39_Random\39_Random\obj\x86\Debug\39_Random.csproj.CoreCompileInputs.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\39_Random\39_Random\obj\x86\Debug\39_Random.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\39_Random\39_Random\obj\x86\Debug\39_Random.pdb

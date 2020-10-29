@@ -1,5 +1,0 @@
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\11_foreach\11_foreach\bin\Debug\11_foreach.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\11_foreach\11_foreach\bin\Debug\11_foreach.pdb
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\11_foreach\11_foreach\obj\x86\Debug\11_foreach.csproj.CoreCompileInputs.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\11_foreach\11_foreach\obj\x86\Debug\11_foreach.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\11_foreach\11_foreach\obj\x86\Debug\11_foreach.pdb

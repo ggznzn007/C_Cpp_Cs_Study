@@ -1,6 +1,0 @@
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\3_EnumInt\3_EnumInt\bin\Debug\3_EnumInt.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\3_EnumInt\3_EnumInt\bin\Debug\3_EnumInt.pdb
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\3_EnumInt\3_EnumInt\obj\x86\Debug\3_EnumInt.csprojAssemblyReference.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\3_EnumInt\3_EnumInt\obj\x86\Debug\3_EnumInt.csproj.CoreCompileInputs.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\3_EnumInt\3_EnumInt\obj\x86\Debug\3_EnumInt.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\3_EnumInt\3_EnumInt\obj\x86\Debug\3_EnumInt.pdb

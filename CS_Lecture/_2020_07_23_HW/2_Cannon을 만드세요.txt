@@ -1,3 +1,0 @@
-A D : speed 초속
-W S : angle 각도
-space : 발사

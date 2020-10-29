@@ -1,6 +1,0 @@
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\22_MultiArray\22_MultiArray\bin\Debug\22_MultiArray.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\22_MultiArray\22_MultiArray\bin\Debug\22_MultiArray.pdb
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\22_MultiArray\22_MultiArray\obj\x86\Debug\22_MultiArray.csprojAssemblyReference.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\22_MultiArray\22_MultiArray\obj\x86\Debug\22_MultiArray.csproj.CoreCompileInputs.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\22_MultiArray\22_MultiArray\obj\x86\Debug\22_MultiArray.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\22_MultiArray\22_MultiArray\obj\x86\Debug\22_MultiArray.pdb

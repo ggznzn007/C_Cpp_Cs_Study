@@ -1,5 +1,0 @@
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\37_DateTime\37_DateTime\bin\Debug\37_DateTime.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\37_DateTime\37_DateTime\bin\Debug\37_DateTime.pdb
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\37_DateTime\37_DateTime\obj\x86\Debug\37_DateTime.csproj.CoreCompileInputs.cache
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\37_DateTime\37_DateTime\obj\x86\Debug\37_DateTime.exe
-D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\37_DateTime\37_DateTime\obj\x86\Debug\37_DateTime.pdb
