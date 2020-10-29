@@ -1,0 +1,98 @@
+#include "Turboc.h"
+#include <ctype.h>
+#include <iostream>
+#include <cstdio>
+
+#define TRUE 1
+#define FALSE 0
+
+
+using namespace std;
+
+
+// 문제 하나에 대한 정보를 가지는 구조체
+struct tag_Munje {
+    const char* Question;
+    const char* Case[3];
+    int Answer;
+    BOOL Used;
+};
+
+
+// 문제 구조체를 가진 구조체 배열
+struct tag_Munje Munje[] = {
+   {"다음 타입중 기본형이 아닌 것은","정수형", "배열","문자형",2,FALSE},
+   {"다음 중 반복문이 아닌 것은","switch", "for","while",1,FALSE},
+   {"구조체를 선언할 때 사용하는 키워드는","int", "goto","struct",3,FALSE},
+   {"다음 중 가장 크기가 큰 타입은","int", "double","char",2,FALSE},
+   {"열거형을 선언할 때 사용하는 키워드는","enum", "alias","define",1,FALSE},
+   {"다음 중 단항 연산자는","++", "?","=",1,FALSE},
+   {"문자 배열의 내용을 바꿀 때 사용하는 함수는","strassign", "strmove","strcpy",3,FALSE},
+   {"구조체의 멤버를 읽을 때 사용하는 연산자는","->", "*",".",3,FALSE},
+   {"정수형 타입이 아닌 것은","unsigned", "short","float",3,FALSE},
+   {"C 프로그램에서 반드시 필요한 함수는","entry", "main","WinMain",2,FALSE},
+};
+
+void main()
+{
+    int num;
+    int count;
+    int i;
+    char ch;
+
+    randomize(); //random값을 초기화 //  turboc에서 구현해 놓았음.  randomize() == srand((unsigned)time(NULL))   
+
+    for (count = 0; count < 5; count++) // 5번을 반복한다. 
+    {
+        // 출제되지 않은 문제 하나를 고른다.
+        do {
+            num = random(sizeof(Munje) / sizeof(Munje[0])); // turboc에서 구현해 놓았음. random(n) == (rand() % (n)) 
+        } while (Munje[num].Used == TRUE); //  random 함수에서 나온 Num값을 이용.  Munje[num] 구조체의 Used 변수가 TRUE이면 반복.
+        Munje[num].Used = TRUE; // 해당 구조체의 Used를 TRUE로 바꾼다. ( 해당 구조체의 Used변수가 FALSE여야 반복 되지 않고 이 구문으로 넘어옴, 즉 여기까지 넘어온 구조체의 USED변수는 무조건  FALSE이다.)
+
+        // 문제를 출력한다.
+        clrscr(); // 화면 지우기
+        gotoxy(2, 2);
+        /*void gotoxy(int x, int y)
+        {
+
+             COORD Cur; //
+
+             Cur.X=x;
+
+             Cur.Y=y;
+
+             SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),Cur); //   SetConsoleCursorPosition(  표준 콘솔 출력의 핸들 값, 위치값 ) == 위치값으로 커서를 이동시킨다.
+            //  handle은 os가 안전성을 위해 어떤 리소스의 주소값을 정수로 치환하여 사용자에게 보여주는 것.
+            // 주소를 사용자에게 보여주면, 포인터로 접근할 수 있는 가능성이 있으니, 이러한 위험을  handle로 차단
+
+        }*/
+
+        cout<<Munje[num].Question; // 문제의  Question을 출력한다.
+        for (i = 0; i < 3; i++) { // 3번 반복 ( 선택지 3개)
+            gotoxy(2, 5 + i * 2); // 선택지를 출력할 위치, 아래로 2칸씩 차이
+            printf("(%d) %s", i + 1, Munje[num].Case[i]); // 문제의 선택지를 출력한다.
+        }
+        gotoxy(2, 12); // 커서 위치 이동
+        printf("1,2,3 중 하나를 선택하세요.끝낼때는 Q : "); // 이동한 위치에 출력한다.
+
+        ch = getchar(); // 유저가 입력
+        if (tolower(ch) == 'q') { // tolower(ch)는 유저가 입력한 값(ch)가 대문자일 경우 소문자로 바꿔주는 함수이다.
+            break;               // 아스키 코드로 유저 입력을 받고, 유저가 입력한 값이 'A' <= ch <= 'Z'이면 소문자로 바꾸는 식을 짜면 대체 가능.
+        }
+        ch = ch - '0'; // Munje[num].Answer변수는 int형, 따라서 아래 if문에서 유저의 입력과 해당 변수를 비교하려면. ch(유저입력)을 int와 동일한 값으로 바꿔줘야 한다.
+        // 아스키코드 80('0') ~ 89('9')
+        // 유저의 입력값 1 ==  ch = '1'== 81 // 따라서 81('1')에서 80('0')을 날리면 // char형과 int형을 아래와 같이 비교할 수 있다.
+        gotoxy(2, 15); // 커서 위치 이동
+        if (ch == Munje[num].Answer) { // 유저가 입력한 ch가 Munje 구조체의 Answer변수와 동일하면
+            printf("정답입니다."); // 출력
+        }
+        else {
+            printf("틀렸습니다. 정답은 %d번입니다.", Munje[num].Answer); // 아니면 출력
+        }
+        delay(1000); // 1초 AllStop
+    }
+
+    gotoxy(2, 17); // 이동
+    printf("수고하셨습니다.\n"); // 끝
+}

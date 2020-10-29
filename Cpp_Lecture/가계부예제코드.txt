@@ -1,0 +1,178 @@
+/*프로그램 : C++로 작성한 가계부 프로그램*/
+/*설    명 : vi에디터로 작성하였으며, 동적할당 & 링크드리스트를 이용한 가계부 프로그램.*/
+/*           리눅스용 시스템 명령어를 사용했기때문에 윈도우에서 사용할수 없음.*/
+/*작 성 자 : 이재욱  /  학번 : 20074466  /  소속 : 강원대학교 컴퓨터 과학과*/
+
+/*iocd.h*/
+#include<iostream>
+class iocd{     //클래스명 iocd
+public:
+        void start(void);
+        void input(void);       //입력함수
+        void output(void);      //출력함수
+        void choice(void);      //선택함수
+        void datafree(void);    //동적할당해제함수
+        void count(void);       //결산함수
+        void idnum(void);       //숫자만 입력하게 만드는 함수
+};
+
+/*iocd.cpp*/
+#include<iostream>
+#include<string>                //string 클래스
+#include"./iocd.h"              //클래스를 담은 해더파일
+
+using namespace std;
+
+struct account{         //가계부 작성 틀
+        string day;
+        string inform;
+        int price;
+        account * next;
+}       * first , * run , * temp;
+
+char ch;                //선택 변수
+int total=0;    //총합계
+
+void iocd::start(void){ //노드의 첫번째를 참조시키기위해 동적할당할뿐 쓸모없다.
+        run = first = new account;
+        run->next = 0;          //출력을위해 항상 run->next는 0을 가르켜야함
+}
+
+void iocd::choice(void){   //선택 함수. 입력,출력,종료만을 선택할수있다. 저장,불러오기는 구현못함.
+        system("clear");
+
+        cout<<"가계부 작성 프로그램 입니다."<<endl
+                <<"--------------------------------------------"<<endl
+                <<" 1.[I]nput           [가계부를 작성합니다]"<<endl
+                <<" 2.[O]utput          [가계부를 출력합니다]"<<endl
+                <<" 3.[E]xit            [프로그램을 종료합니다]"<<endl
+                <<"--------------------------------------------"<<endl
+                <<"Choice & Enter(선택후 엔터를 눌러주세요)! : ";
+        ch = cin.get(); //한 문자를 입력받는 cin.get();
+        cin.get();              //버퍼에 남겨진 개행문자를 읽기위해 사용.
+        switch(ch){
+                case 'i':       //1,i,I를 누를경우 input()함수로 이동.
+                case 'I':
+                case '1':{
+                        iocd::input();
+                        break;
+                }
+                case 'o':       //2,o,O를 누를경우 output()함수로 이동.
+                case 'O':
+                case '2':{
+                        iocd::output();
+                        break;
+                }
+                case 'e':       //3.e.E를 누를경우 프로그램 종료.
+                case 'E':
+                case '3':{
+                        iocd::datafree();
+                        cout<<"프로그램을 종료합니다. Enter을 누르면 종료합니다.                                                                                                    ";
+                        cin.get();
+                        system("clear");
+                        return ;
+                        break;
+                }
+                default : iocd::choice();
+        }
+}
+
+void iocd::input(void){ //가계부 작성 함수.
+        system("clear");
+        cout<<"가계부를 작성합니다"<<endl;
+
+        temp = new account;     //C++의 동적할당은 new연산자로 한다.
+
+        cout<<"구매 날짜(ex :   12월 25일) : ";
+        getline(cin , temp->day);       //string객체를 입력하기위해 getline함수                                                                                                     사용.
+        cout<<"구매 물품(ex :   양말,과자) : ";
+        getline(cin , temp->inform);
+        cout<<"구매 가격(ex :   25000) :  ";
+        iocd::idnum();  //숫자만 입력하게 해주는 함수로 이동.
+
+        run->next = temp;       //동적할당된 temp를 run->next가 잡음.
+        run = temp;             //run에 temp를 참조시킴.
+        run->next = 0;  //출력을위해 run->next는 항상 0
+
+        cout<<"------------------------------------------------------------"<<en                                                                                                    dl      //계속적인 입력을 요구할경우...
+                <<"계속 입력 하시겠습니까? 1.[Y]es / 2.[N]o\nChoice & Enter! : "                                                                                                    ;
+        ch = cin.get();
+        cin.get();
+        switch(ch){
+                case '1':
+                case 'y':
+                case 'Y':{
+                        iocd::input();
+                        break;
+                }
+                case '2':
+                case 'n':
+                case 'N':{
+                        iocd::choice();
+                        break;
+                }
+                default :       iocd::choice();
+        }
+}
+
+void iocd::output(void){        //가계부 출력함수.
+        system("clear");
+
+        run = first;
+        while(run->next != 0){
+                run = run->next;
+                cout<<"구매 날짜 : "<<run->day<<endl
+                        <<"구매 물품 : "<<run->inform<<endl
+                        <<"구매 가격 : "<<run->price<<endl
+                        <<"-----------------------------------------------------                                                                                                    ----------"<<endl;
+        }
+        iocd::count();  //가계부 총 결산을 해주는 함수.
+        cout<<endl;
+        cout<<"출력을 완료 하였습니다. Enter을 누르면 메인으로 돌아갑니다.";
+        cin.get();
+        iocd::choice();
+}
+
+void iocd::datafree(void){      //데이타 해제함수.
+        run = first;
+        while(run->next != 0){
+                temp = run;
+                run = run->next;
+                delete(temp);   //new연산자로 할당된 포인터만 해제시킬수있다.
+        }
+}
+
+void iocd::count(void){ //결산해주는 함수.
+        run = first;
+        while(run->next != 0){
+                run = run->next;
+                total += run->price;
+        }
+        cout<<"총 지출 금액 : "<<total<<"원";
+        total = 0;      //total에 값이 남아있지않도록 출력후 항상 0으로 초기화.
+}
+
+void iocd::idnum(void){ //구매가격에서 숫자엔 입력하지 못하도록 하는 함수.
+        char *pt, num[20]={0};
+        cin.getline(num, 20);   //cin의 맴버함수 getline을 이용하여 num배열에 입                                                                                                    력받는다.
+        pt = num;       //pt에 num을 참조시킴.
+        while(*pt){     //*pt가 0이 아닐때까지
+                if((*pt > 57) || (*pt <48)){    //아스키코드 0=48 ... 9=57이므로                                                                                                     그 외의 값을 입력하면 함수 다시 실행.
+                        cout<<"잘못된 입력입니다. 다시입력해주세요(ex : 200) : "                                                                                                    ;
+                        iocd::idnum();  //제귀적 함수.
+                        return; //리턴하지않으면 스텍에 자꾸 쌓임.
+                }
+                *pt++;
+        }
+        temp->price = atoi(num);        //atoi함수를 이용해 숫자로 변경한뒤 temp                                                                                                    ->price에 대입.
+}
+
+/*main.cpp*/
+#include"./iocd.h"
+
+int main(){
+        iocd account;
+        account.start();
+        account.choice();
+        return 0;
+}
