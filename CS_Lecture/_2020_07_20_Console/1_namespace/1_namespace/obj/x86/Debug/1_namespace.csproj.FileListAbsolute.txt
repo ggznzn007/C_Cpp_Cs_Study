@@ -1,0 +1,6 @@
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_namespace\1_namespace\bin\Debug\1_namespace.exe
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_namespace\1_namespace\bin\Debug\1_namespace.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_namespace\1_namespace\obj\x86\Debug\1_namespace.csprojAssemblyReference.cache
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_namespace\1_namespace\obj\x86\Debug\1_namespace.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_namespace\1_namespace\obj\x86\Debug\1_namespace.exe
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_namespace\1_namespace\obj\x86\Debug\1_namespace.pdb

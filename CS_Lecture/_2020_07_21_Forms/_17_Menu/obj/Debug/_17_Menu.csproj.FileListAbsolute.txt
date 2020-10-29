@@ -1,0 +1,10 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Forms\_17_Menu\bin\Debug\_17_Menu.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Forms\_17_Menu\bin\Debug\_17_Menu.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Forms\_17_Menu\bin\Debug\_17_Menu.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Forms\_17_Menu\obj\Debug\_17_Menu.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Forms\_17_Menu\obj\Debug\_17_Menu.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Forms\_17_Menu\obj\Debug\_17_Menu.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Forms\_17_Menu\obj\Debug\_17_Menu.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Forms\_17_Menu\obj\Debug\_17_Menu.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Forms\_17_Menu\obj\Debug\_17_Menu.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Forms\_17_Menu\obj\Debug\_17_Menu.pdb

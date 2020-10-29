@@ -1,0 +1,9 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Forms\_14_DrawImage\obj\Debug\_14_DrawImage.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Forms\_14_DrawImage\obj\Debug\_14_DrawImage.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Forms\_14_DrawImage\obj\Debug\_14_DrawImage.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Forms\_14_DrawImage\obj\Debug\_14_DrawImage.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Forms\_14_DrawImage\bin\Debug\_14_DrawImage.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Forms\_14_DrawImage\bin\Debug\_14_DrawImage.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Forms\_14_DrawImage\bin\Debug\_14_DrawImage.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Forms\_14_DrawImage\obj\Debug\_14_DrawImage.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Forms\_14_DrawImage\obj\Debug\_14_DrawImage.pdb

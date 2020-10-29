@@ -1,0 +1,10 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_2020_07_17_HW_08\bin\Debug\WindowsFormsApp1.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_2020_07_17_HW_08\bin\Debug\WindowsFormsApp1.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_2020_07_17_HW_08\bin\Debug\WindowsFormsApp1.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_2020_07_17_HW_08\obj\Debug\_2020_07_17_HW_08.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_2020_07_17_HW_08\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_2020_07_17_HW_08\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_2020_07_17_HW_08\obj\Debug\_2020_07_17_HW_08.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_2020_07_17_HW_08\obj\Debug\_2020_07_17_HW_08.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_2020_07_17_HW_08\obj\Debug\WindowsFormsApp1.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_2020_07_17_HW_08\obj\Debug\WindowsFormsApp1.pdb

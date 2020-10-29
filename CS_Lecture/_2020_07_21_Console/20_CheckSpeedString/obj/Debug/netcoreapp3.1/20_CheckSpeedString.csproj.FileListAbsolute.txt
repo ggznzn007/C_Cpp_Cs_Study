@@ -1,0 +1,13 @@
+D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\20_CheckSpeedString\bin\Debug\netcoreapp3.1\20_CheckSpeedString.exe
+D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\20_CheckSpeedString\bin\Debug\netcoreapp3.1\20_CheckSpeedString.deps.json
+D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\20_CheckSpeedString\bin\Debug\netcoreapp3.1\20_CheckSpeedString.runtimeconfig.json
+D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\20_CheckSpeedString\bin\Debug\netcoreapp3.1\20_CheckSpeedString.runtimeconfig.dev.json
+D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\20_CheckSpeedString\bin\Debug\netcoreapp3.1\20_CheckSpeedString.dll
+D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\20_CheckSpeedString\bin\Debug\netcoreapp3.1\20_CheckSpeedString.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\20_CheckSpeedString\obj\Debug\netcoreapp3.1\20_CheckSpeedString.csprojAssemblyReference.cache
+D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\20_CheckSpeedString\obj\Debug\netcoreapp3.1\20_CheckSpeedString.AssemblyInfoInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\20_CheckSpeedString\obj\Debug\netcoreapp3.1\20_CheckSpeedString.AssemblyInfo.cs
+D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\20_CheckSpeedString\obj\Debug\netcoreapp3.1\20_CheckSpeedString.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\20_CheckSpeedString\obj\Debug\netcoreapp3.1\20_CheckSpeedString.dll
+D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\20_CheckSpeedString\obj\Debug\netcoreapp3.1\20_CheckSpeedString.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_21\_2020_07_21_Console\20_CheckSpeedString\obj\Debug\netcoreapp3.1\20_CheckSpeedString.genruntimeconfig.cache

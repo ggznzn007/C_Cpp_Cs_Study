@@ -1,0 +1,8 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_12_MouseSelectEllipse\bin\Debug\_12_MouseSelectEllipse.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_12_MouseSelectEllipse\bin\Debug\_12_MouseSelectEllipse.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_12_MouseSelectEllipse\bin\Debug\_12_MouseSelectEllipse.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_12_MouseSelectEllipse\obj\Debug\_12_MouseSelectEllipse.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_12_MouseSelectEllipse\obj\Debug\_12_MouseSelectEllipse.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_12_MouseSelectEllipse\obj\Debug\_12_MouseSelectEllipse.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_12_MouseSelectEllipse\obj\Debug\_12_MouseSelectEllipse.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_17\_2020_07_17_Forms\_12_MouseSelectEllipse\obj\Debug\_12_MouseSelectEllipse.pdb

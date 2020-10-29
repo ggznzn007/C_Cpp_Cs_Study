@@ -1,0 +1,5 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\40_Math\40_Math\bin\Debug\40_Math.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\40_Math\40_Math\bin\Debug\40_Math.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\40_Math\40_Math\obj\x86\Debug\40_Math.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\40_Math\40_Math\obj\x86\Debug\40_Math.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\40_Math\40_Math\obj\x86\Debug\40_Math.pdb

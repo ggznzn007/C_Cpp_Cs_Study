@@ -1,0 +1,6 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Console\45_Property\45_Property\bin\Debug\45_Property.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Console\45_Property\45_Property\bin\Debug\45_Property.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Console\45_Property\45_Property\obj\x86\Debug\45_Property.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Console\45_Property\45_Property\obj\x86\Debug\45_Property.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Console\45_Property\45_Property\obj\x86\Debug\45_Property.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_21_Console\45_Property\45_Property\obj\x86\Debug\45_Property.pdb

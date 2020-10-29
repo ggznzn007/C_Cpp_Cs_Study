@@ -1,0 +1,5 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\38_Stopwatch\38_Stopwatch\bin\Debug\38_Stopwatch.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\38_Stopwatch\38_Stopwatch\bin\Debug\38_Stopwatch.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\38_Stopwatch\38_Stopwatch\obj\x86\Debug\38_Stopwatch.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\38_Stopwatch\38_Stopwatch\obj\x86\Debug\38_Stopwatch.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\38_Stopwatch\38_Stopwatch\obj\x86\Debug\38_Stopwatch.pdb

@@ -1,0 +1,6 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\18_string_Matter\18_string_Matter\bin\Debug\18_string_Matter.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\18_string_Matter\18_string_Matter\bin\Debug\18_string_Matter.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\18_string_Matter\18_string_Matter\obj\x86\Debug\18_string_Matter.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\18_string_Matter\18_string_Matter\obj\x86\Debug\18_string_Matter.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\18_string_Matter\18_string_Matter\obj\x86\Debug\18_string_Matter.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_20_Console\18_string_Matter\18_string_Matter\obj\x86\Debug\18_string_Matter.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_EnumInt", "3_EnumInt\3_EnumInt.csproj", "{25A85852-BB4B-4787-9781-9E03969780BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25A85852-BB4B-4787-9781-9E03969780BB}.Debug|x86.ActiveCfg = Debug|x86
+		{25A85852-BB4B-4787-9781-9E03969780BB}.Debug|x86.Build.0 = Debug|x86
+		{25A85852-BB4B-4787-9781-9E03969780BB}.Release|x86.ActiveCfg = Release|x86
+		{25A85852-BB4B-4787-9781-9E03969780BB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
