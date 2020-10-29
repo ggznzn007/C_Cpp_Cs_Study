@@ -1,0 +1,151 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="001_namespace.cs" />
+    <Compile Remove="002_using.cs" />
+    <Compile Remove="003_Boxing_Unboxing.cs" />
+    <Compile Remove="004_Structor_01.cs" />
+    <Compile Remove="004_Structor_02.cs" />
+    <Compile Remove="005_EnumInt.cs" />
+    <Compile Remove="006_if_.cs" />
+    <Compile Remove="007_switch_case.cs" />
+    <Compile Remove="008_Loop(dowhile).cs" />
+    <Compile Remove="008_Loop(for).cs" />
+    <Compile Remove="008_Loop(while).cs" />
+    <Compile Remove="009_foreach.cs" />
+    <Compile Remove="010_goto.cs" />
+    <Compile Remove="011_break.cs" />
+    <Compile Remove="012_continue.cs" />
+    <Compile Remove="013_object_from_dotnet.cs" />
+    <Compile Remove="014_string_01.cs" />
+    <Compile Remove="014_string_02.cs" />
+    <Compile Remove="014_string_03.cs" />
+    <Compile Remove="015_string_Builder.cs" />
+    <Compile Remove="016_Array.cs" />
+    <Compile Remove="016_Array_01.cs" />
+    <Compile Remove="016_Array_02.cs" />
+    <Compile Remove="017_ArrayList.cs" />
+    <Compile Remove="018_HashTable.cs" />
+    <Compile Remove="019_Stack.cs" />
+    <Compile Remove="020_Queue.cs" />
+    <Compile Remove="021_DateTime.cs" />
+    <Compile Remove="022_Stopwatch.cs" />
+    <Compile Remove="023_Random.cs" />
+    <Compile Remove="024_Double_angle.cs" />
+    <Compile Remove="025_Method_01.cs" />
+    <Compile Remove="026_Method_02.cs" />
+    <Compile Remove="027_default.cs" />
+    <Compile Remove="028_Property_01.cs" />
+    <Compile Remove="028_Property_02.cs" />
+    <Compile Remove="029_Operator_Equal.cs" />
+    <Compile Remove="029_Operator_Plus.cs" />
+    <Compile Remove="029_Operator_Plus2.cs" />
+    <Compile Remove="029_Operator_Plus_Int.cs" />
+    <Compile Remove="030_class_01.cs" />
+    <Compile Remove="031_Constructor_01.cs" />
+    <Compile Remove="031_Constructor_02.cs" />
+    <Compile Remove="032_Destructor.cs" />
+    <Compile Remove="033_Static_01.cs" />
+    <Compile Remove="034_Static_const.cs" />
+    <Compile Remove="034_Static_Readonly.cs" />
+    <Compile Remove="035_Class_in.cs" />
+    <Compile Remove="035_Class_inheritance.cs" />
+    <Compile Remove="035_Class_inheritance_in.cs" />
+    <Compile Remove="036_Class_inheritance_in.cs" />
+    <Compile Remove="036_Class_inheritance_is.cs" />
+    <Compile Remove="037_Class_inheritance_as.cs" />
+    <Compile Remove="038_Class_Derived_01.cs" />
+    <Compile Remove="038_Class_Derived_02.cs" />
+    <Compile Remove="039_Class_Virtual_Override.cs" />
+    <Compile Remove="040_Class_Abs.cs" />
+    <Compile Remove="040_Class_Sealed.cs" />
+    <Compile Remove="040_Class_Static.cs" />
+    <Compile Remove="040_Class_Vari.cs" />
+    <Compile Remove="041_Interface.cs" />
+    <Compile Remove="041_Interface_1.cs" />
+    <Compile Remove="042_Delegate_01.cs" />
+    <Compile Remove="042_Delegate_02.cs" />
+    <Compile Remove="042_Delegate_03.cs" />
+    <Compile Remove="042_Delegate_04.cs" />
+    <Compile Remove="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="031_Constructor_02.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="003_Boxing_Unboxing.cs" />
+    <None Include="011_break.cs" />
+    <None Include="012_continue.cs" />
+    <None Include="005_EnumInt.cs" />
+    <None Include="009_foreach.cs" />
+    <None Include="010_goto.cs" />
+    <None Include="006_if_.cs" />
+    <None Include="008_Loop%28dowhile%29.cs" />
+    <None Include="008_Loop%28while%29.cs" />
+    <None Include="008_Loop%28for%29.cs" />
+    <None Include="001_namespace.cs" />
+    <None Include="013_object_from_dotnet.cs" />
+    <None Include="015_string_Builder.cs" />
+    <None Include="016_Array.cs" />
+    <None Include="016_Array_01.cs" />
+    <None Include="016_Array_02.cs" />
+    <None Include="017_ArrayList.cs" />
+    <None Include="018_HashTable.cs" />
+    <None Include="019_Stack.cs" />
+    <None Include="020_Queue.cs" />
+    <None Include="021_DateTime.cs" />
+    <None Include="022_Stopwatch.cs" />
+    <None Include="023_Random.cs" />
+    <None Include="024_Double_angle.cs" />
+    <None Include="025_Method_01.cs" />
+    <None Include="026_Method_02.cs" />
+    <None Include="027_default.cs" />
+    <None Include="028_Property_01.cs" />
+    <None Include="028_Property_02.cs" />
+    <None Include="029_Operator_Equal.cs" />
+    <None Include="029_Operator_Plus.cs" />
+    <None Include="029_Operator_Plus2.cs" />
+    <None Include="029_Operator_Plus_Int.cs" />
+    <None Include="030_class_01.cs" />
+    <None Include="031_Constructor_01.cs" />
+    <None Include="032_Destructor.cs" />
+    <None Include="033_Static_01.cs" />
+    <None Include="034_Static_const.cs" />
+    <None Include="034_Static_Readonly.cs" />
+    <None Include="035_Class_in.cs" />
+    <None Include="035_Class_inheritance.cs" />
+    <None Include="035_Class_inheritance_in.cs" />
+    <None Include="036_Class_inheritance_in.cs" />
+    <None Include="036_Class_inheritance_is.cs" />
+    <None Include="037_Class_inheritance_as.cs" />
+    <None Include="038_Class_Derived_01.cs" />
+    <None Include="038_Class_Derived_02.cs" />
+    <None Include="039_Class_Virtual_Override.cs" />
+    <None Include="040_Class_Abs.cs" />
+    <None Include="040_Class_Sealed.cs" />
+    <None Include="040_Class_Static.cs" />
+    <None Include="040_Class_Vari.cs" />
+    <None Include="041_Interface.cs" />
+    <None Include="041_Interface_1.cs" />
+    <None Include="042_Delegate_01.cs" />
+    <None Include="042_Delegate_02.cs" />
+    <None Include="042_Delegate_03.cs" />
+    <None Include="042_Delegate_04.cs" />
+    <None Include="Program.cs" />
+    <None Include="014_string_01.cs" />
+    <None Include="014_string_02.cs" />
+    <None Include="014_string_03.cs" />
+    <None Include="004_Structor_01.cs" />
+    <None Include="004_Structor_02.cs" />
+    <None Include="007_switch_case.cs" />
+    <None Include="002_using.cs" />
+  </ItemGroup>
+
+</Project>

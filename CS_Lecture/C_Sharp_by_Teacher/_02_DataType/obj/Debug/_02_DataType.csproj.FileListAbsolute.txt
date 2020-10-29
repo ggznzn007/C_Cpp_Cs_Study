@@ -1,0 +1,5 @@
+D:\Share\CSharpLecture\lecture\_2020_07_16\_02_DataType\bin\Debug\_02_DataType.exe
+D:\Share\CSharpLecture\lecture\_2020_07_16\_02_DataType\bin\Debug\_02_DataType.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_16\_02_DataType\obj\Debug\_02_DataType.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_16\_02_DataType\obj\Debug\_02_DataType.exe
+D:\Share\CSharpLecture\lecture\_2020_07_16\_02_DataType\obj\Debug\_02_DataType.pdb

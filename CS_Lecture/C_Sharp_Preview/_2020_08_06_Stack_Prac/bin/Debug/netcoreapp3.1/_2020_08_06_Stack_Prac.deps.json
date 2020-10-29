@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_2020_08_06_Stack_Prac/1.0.0": {
+        "runtime": {
+          "_2020_08_06_Stack_Prac.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_2020_08_06_Stack_Prac/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

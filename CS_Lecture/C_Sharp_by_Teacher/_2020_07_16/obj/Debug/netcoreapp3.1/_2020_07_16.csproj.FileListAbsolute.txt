@@ -1,0 +1,13 @@
+D:\Share\CSharpLecture\lecture\_2020_07_16\_2020_07_16\bin\Debug\netcoreapp3.1\_2020_07_16.exe
+D:\Share\CSharpLecture\lecture\_2020_07_16\_2020_07_16\bin\Debug\netcoreapp3.1\_2020_07_16.deps.json
+D:\Share\CSharpLecture\lecture\_2020_07_16\_2020_07_16\bin\Debug\netcoreapp3.1\_2020_07_16.runtimeconfig.json
+D:\Share\CSharpLecture\lecture\_2020_07_16\_2020_07_16\bin\Debug\netcoreapp3.1\_2020_07_16.runtimeconfig.dev.json
+D:\Share\CSharpLecture\lecture\_2020_07_16\_2020_07_16\bin\Debug\netcoreapp3.1\_2020_07_16.dll
+D:\Share\CSharpLecture\lecture\_2020_07_16\_2020_07_16\bin\Debug\netcoreapp3.1\_2020_07_16.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_16\_2020_07_16\obj\Debug\netcoreapp3.1\_2020_07_16.csprojAssemblyReference.cache
+D:\Share\CSharpLecture\lecture\_2020_07_16\_2020_07_16\obj\Debug\netcoreapp3.1\_2020_07_16.AssemblyInfoInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_16\_2020_07_16\obj\Debug\netcoreapp3.1\_2020_07_16.AssemblyInfo.cs
+D:\Share\CSharpLecture\lecture\_2020_07_16\_2020_07_16\obj\Debug\netcoreapp3.1\_2020_07_16.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_16\_2020_07_16\obj\Debug\netcoreapp3.1\_2020_07_16.dll
+D:\Share\CSharpLecture\lecture\_2020_07_16\_2020_07_16\obj\Debug\netcoreapp3.1\_2020_07_16.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_16\_2020_07_16\obj\Debug\netcoreapp3.1\_2020_07_16.genruntimeconfig.cache
