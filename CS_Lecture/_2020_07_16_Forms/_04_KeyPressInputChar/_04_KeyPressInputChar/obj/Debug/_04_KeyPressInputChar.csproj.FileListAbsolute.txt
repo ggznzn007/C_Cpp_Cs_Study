@@ -1,0 +1,8 @@
+D:\Share\CSharpLecture\lecture\_2020_07_16_Forms\_04_KeyPressInputChar\bin\Debug\_04_KeyPressInputChar.exe.config
+D:\Share\CSharpLecture\lecture\_2020_07_16_Forms\_04_KeyPressInputChar\bin\Debug\_04_KeyPressInputChar.exe
+D:\Share\CSharpLecture\lecture\_2020_07_16_Forms\_04_KeyPressInputChar\bin\Debug\_04_KeyPressInputChar.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_16_Forms\_04_KeyPressInputChar\obj\Debug\_04_KeyPressInputChar.Properties.Resources.resources
+D:\Share\CSharpLecture\lecture\_2020_07_16_Forms\_04_KeyPressInputChar\obj\Debug\_04_KeyPressInputChar.csproj.GenerateResource.cache
+D:\Share\CSharpLecture\lecture\_2020_07_16_Forms\_04_KeyPressInputChar\obj\Debug\_04_KeyPressInputChar.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_16_Forms\_04_KeyPressInputChar\obj\Debug\_04_KeyPressInputChar.exe
+D:\Share\CSharpLecture\lecture\_2020_07_16_Forms\_04_KeyPressInputChar\obj\Debug\_04_KeyPressInputChar.pdb
