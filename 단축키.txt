@@ -1,0 +1,11 @@
+비스 단축키
+창 및 문서간 통합 이동 : Ctrl+Tab
+코드 자동 정렬 : Ctrl+KF
+주석달기,해제 : Ctrl+KC, Ctrl+KU
+ Ctrl + Shift + / 
+자동완성 : Ctrl+J, Ctrl+Space, Alt+Right
+공백문자 보기/숨기기 : Ctrl+RW
+문자 찾아바꾸기 : Ctrl +R, Ctrl +R
+현재 아웃라인 기준으로 숨기기 : Ctrl+MM
+선택한 부분을 숨기기 : Ctrl+MH
+전체를 숨기기/보이기 : Ctrl+MO, Ctrl+ML
